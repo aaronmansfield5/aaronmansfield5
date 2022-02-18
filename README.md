@@ -11,6 +11,4 @@
 
 **Instagram - aaronmansfield5**
 
-**Codewars - [Profile Link](https://www.codewars.com/users/godgun20)** 
-
-![](https://www.codewars.com/users/godgun20/badges/micro?raw=true)
+**Codewars - [Profile Link](https://www.codewars.com/users/godgun20)**  ![](https://www.codewars.com/users/godgun20/badges/micro?raw=true)
