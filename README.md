@@ -5,7 +5,7 @@
 # My Goals 🥅
 **I am still not where I wish to be. As previously mentioned, I would like to become a full-stack developer. After college I will be applying to universities to study Computer Science at, then hopefully take that further and do my masters. I hope to either work for myself or work for a great tech firm, innovating new technology and building the next generation of computing.**
 # Socials 🔗
-**Discord - aaronn#2491**
+**Discord - aaronn#6590**
 
 **Snapchat - aaronmansfield5**
 
