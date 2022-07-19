@@ -7,7 +7,7 @@
 # Socials 🔗
 **[Discord](https://discord.com/users/966009634500513802)**
 
-**[Twitter](https://twitter.com/aaronmansf5)
+**[Twitter](https://twitter.com/aaronmansf5)**
 
 **[Snapchat](https://snapchat.com/add/aaronmansfield5)**
 
