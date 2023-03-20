@@ -12,7 +12,7 @@
 <a href="https://dotnet.microsoft.com/">![](https://img.shields.io/badge/-.NET-informational?style=flat&logo=.net&logoColor=white&color=512BD4)</a>
 <a href="https://learn.microsoft.com/dotnet/csharp/">![](https://img.shields.io/badge/-C%23-informational?style=flat&logo=csharp&logoColor=white&color=239120)</a>
 <a href="https://www.lua.org/">![](https://img.shields.io/badge/-Lua-informational?style=flat&logo=lua&logoColor=white&color=2C2D72)</a>
-<a href="https://www.lua.org/">![](https://img.shields.io/badge/-LuaU-informational?style=flat&logo=roblox&logoColor=white&color=3390ef)</a>
+<a href="https://luau-lang.org/">![](https://img.shields.io/badge/-LuaU-informational?style=flat&logo=roblox&logoColor=white&color=3390ef)</a>
   
 </div>
 
