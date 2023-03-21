@@ -29,7 +29,11 @@ As I continued to grow and learn, I wanted to expand my skillset. I researched f
 
 ### Embracing dotNET & C#
 
-I looked into nearby colleges and found that my current college offers an A-Level course that teaches dotNET & C#. I seized the opportunity and applied, and within a month, I was accepted. Fast forward two years, and now I'm here on GitHub, sharing everything I learn and create!
+I looked into nearby colleges and found that my current college offers an A-Level course that teaches dotNET & C#. I seized the opportunity and applied, and within a month, I was accepted.
+
+### Diving into Full-Stack and Software Development
+
+My experiences with both front-end and back-end technologies led me to explore full-stack development. With a strong foundation in web and software development, I'm now adept at creating comprehensive, end-to-end solutions for various projects. My passion for coding continues to grow as I constantly learn and innovate in the realm of full-stack and software development. Fast forward a year, and now I'm here on GitHub, sharing everything I learn and create!
 
 ### Connect with me
 
