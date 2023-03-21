@@ -22,11 +22,13 @@ My coding journey began when I was just 13 years old. I got my first PC and enjo
 
 ### From LUA to LUAU
 
-Over the course of 6 to 7 months, I became proficient in LUA, and my friend recommended I learn LUAU for ROBLOX. This is where my passion for programming truly took off. I began doing commissioned work, earning impressive income for a 14-year-old kid.
+Over the course of 6 to 7 months, I became proficient in LUA, driven by my passion for creating custom experiences in games like Garry's Mod. One day, my friend recommended I learn LUAU for ROBLOX, as it opened up a new world of opportunities in game development and customization. I eagerly took on the challenge and soon became well-versed in LUAU. This new skill allowed me to explore the exciting realm of ROBLOX, where my passion for programming truly took off. I began doing commissioned work, creating various game modes, mechanics, and assets for clients. The projects I worked on not only helped me hone my skills but also provided me with impressive income for a 14-year-old kid. The experience and confidence I gained from these projects further fueled my drive to learn and grow in the world of programming.
 
 ### Exploring Back-End Development
 
-As I continued to grow and learn, I wanted to expand my skillset. I researched further and discovered the world of back-end development, which led me to learn NodeJS. However, I was still eager to learn even more about server-side programming.
+As I continued to grow and learn, I felt a strong desire to expand my skillset and delve deeper into the various facets of programming. My curiosity led me to explore the world of back-end development, which plays a crucial role in building the backbone of web applications and services. Eager to master this domain, I began learning Node.js, a powerful JavaScript runtime environment that enables developers to create scalable server-side applications.
+
+As I progressed in my journey, I realized the importance of understanding not only server-side programming but also the complex interplay between front-end and back-end technologies. This realization drove me to expand my knowledge of databases, API integrations, and other aspects of full-stack development. My continuous learning and passion for back-end development have opened up new horizons for me in the world of software development, allowing me to create more sophisticated and robust applications.
 
 ### Embracing dotNET & C#
 
