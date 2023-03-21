@@ -1,6 +1,6 @@
 <div align="center">
   
-[![](https://raw.githubusercontent.com/aaronmansfield5/aaronmansfield5/main/imgs/banner.png)](https://github.com/aaronmansfield5)
+[![](https://raw.githubusercontent.com/aaronmansfield5/aaronmansfield5/main/imgs/namebanner.png)](https://github.com/aaronmansfield5)
   
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=600&duration=1500&pause=500&color=F7F7F7&center=true&multiline=true&width=500&height=80&lines=Aaron+Mansfield;Full-Stack+Web+Developer+%7C+Software+Developer;A-Level+Student)](https://github.com/aaronmansfield5)-->
 
