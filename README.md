@@ -8,6 +8,7 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/-HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![CSS3](https://img.shields.io/badge/-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![SQL](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)](https://www.mysql.com/)
 [![.NET](https://img.shields.io/badge/-.NET-informational?style=flat&logo=.net&logoColor=white&color=512BD4)](https://dotnet.microsoft.com/)
 [![C#](https://img.shields.io/badge/-C%23-informational?style=flat&logo=csharp&logoColor=white&color=239120)](https://learn.microsoft.com/dotnet/csharp/)
 [![Lua](https://img.shields.io/badge/-Lua-informational?style=flat&logo=lua&logoColor=white&color=2C2D72)](https://www.lua.org/)
@@ -29,7 +30,7 @@ As I continued to grow and learn, I wanted to expand my skillset. I researched f
 
 ### Embracing dotNET & C#
 
-I looked into nearby colleges and found that my current college offers an A-Level course that teaches dotNET & C#. I seized the opportunity and applied, and within a month, I was accepted.
+I looked into nearby colleges and found that my current college offers an A-Level course that teaches dotNET, C#, and SQL. Intrigued by the possibility of expanding my knowledge, I seized the opportunity and applied. Within a month, I was accepted into the program. The course not only deepened my understanding of dotNET and C# but also introduced me to SQL, which has been essential for working with databases and data-driven applications. This comprehensive learning experience has greatly enhanced my skill set and opened up new opportunities in the world of software development.
 
 ### Diving into Full-Stack and Software Development
 
