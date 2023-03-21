@@ -49,15 +49,6 @@ Feel free to check out my projects and connect with me on my linked socials. Let
 [![Code Wars](https://img.shields.io/badge/-Code%20Wars-informational?style=flat&logo=codewars&logoColor=white&color=B1361E)](https://www.codewars.com/users/godgun20)
 [![Apple Music](https://img.shields.io/badge/-Apple%20Music-informational?style=flat&logo=applemusic&logoColor=white&color=FD415E)](https://music.apple.com/profile/aaronmansfield2004)
   
+[![](https://github-readme-stats.vercel.app/api?username=aaronmansfield5&show_icons=true&theme=tokyonight)](https://github.com/aaronmansfield5)
+  
 </div>
-
-<details>
-  <summary>Stats📈</summary>
-  
-  </br>
-  
-  [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaronmansfield5&theme=dracula)](https://github.com/aaronmansfield5?tab=repositories)
-
-  [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aaronmansfield5&theme=dracula)](https://github.com/aaronmansfield5?tab=repositories)
-  [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aaronmansfield5&theme=dracula)](https://github.com/aaronmansfield5?tab=commits)
-</details>
