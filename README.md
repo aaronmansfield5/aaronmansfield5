@@ -14,6 +14,8 @@
 [![Lua](https://img.shields.io/badge/-Lua-informational?style=flat&logo=lua&logoColor=white&color=2C2D72)](https://www.lua.org/)
 [![LuaU](https://img.shields.io/badge/-LuaU-informational?style=flat&logo=roblox&logoColor=white&color=3390ef)](https://luau-lang.org/)
   
+[![](https://img.shields.io/badge/dynamic/json?label=NPM%20Downloads&query=$.count&url=https://github-readme-npm-stats.vercel.app/api/downloads?author=aaronmansfield5)](https://www.npmjs.com/~aaronmansfield5)
+  
 </div>
 
 ## Hi, I'm Aaron Mansfield!
