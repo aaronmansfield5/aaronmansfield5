@@ -7,7 +7,7 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![SQL](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)](https://www.mysql.com/)
 [![.NET](https://img.shields.io/badge/-.NET-informational?style=flat&logo=.net&logoColor=white&color=512BD4)](https://dotnet.microsoft.com/)
-[![C#](https://img.shields.io/badge/-C%23-informational?style=flat&logo=csharp&logoColor=white&color=239120)](https://learn.microsoft.com/dotnet/csharp/)
+[![C#](https://img.shields.io/badge/-C%23-informational?style=flat&logo=sharp&logoColor=white&color=239120)](https://learn.microsoft.com/dotnet/csharp/)
 [![Lua](https://img.shields.io/badge/-Lua-informational?style=flat&logo=lua&logoColor=white&color=2C2D72)](https://www.lua.org/)
 [![LuaU](https://img.shields.io/badge/-LuaU-informational?style=flat&logo=roblox&logoColor=white&color=3390ef)](https://luau-lang.org/)
 
