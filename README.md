@@ -2,6 +2,7 @@
 
 [![Node.js](https://img.shields.io/badge/-Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=339933)](https://nodejs.org/)
 [![Python](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)](https://python.org/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/-HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![CSS3](https://img.shields.io/badge/-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
