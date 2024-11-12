@@ -15,7 +15,7 @@
 
 ## About Me
 
-Hello! I'm Aaron Mansfield, a versatile developer working in software development since 2018. My journey began with a fascination for technology and its ability to solve real-world problems. Over the years, I've honed my skills in JavaScript, Node.js, Python, and a diverse array of other technologies. I've had the privilege of contributing to various projects, from web applications to AI and game development.
+Hello! I'm Aaron Mansfield, a versatile developer working in software development since 2018. My journey began with a fascination for technology and its ability to solve real-world problems. Over the years, I've honed my skills in JavaScript, Node.js, TypeScript, Python, C#, and a diverse array of other technologies. I've had the privilege of contributing to various projects, from web applications to AI and game development.
 
 ---
 
