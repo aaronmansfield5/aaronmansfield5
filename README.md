@@ -38,7 +38,7 @@ I combine traditional engineering principles with next-gen AI tooling to maximiz
 
 Here are some of my notable projects:
 
-- **[AquaGem](https://github.com/aaronmansfield5/AquaGem)**: 🎰 A Discord casino bot with provably-fair gambling, Roblox account linking, invite rewards, and a persistent economy. Built with discord.py and SQLite.
+- **[AquaGem](https://github.com/aaronmansfield5/AquaGem)**: A Discord casino bot with provably-fair gambling, Roblox account linking, invite rewards, and a persistent economy. Built with discord.py and SQLite.
 - **[aaronmansfield5.github.io](https://github.com/aaronmansfield5/aaronmansfield5.github.io)**: My personal website, serving as a showcase for my portfolio and providing an insight into my skills and projects.
 - **[Roblox Account Gen](https://github.com/aaronmansfield5/Roblox-Account-Gen)**: A Roblox account generator, simplifying the account creation process for users.
 - **[humanisejs NPM Package](https://github.com/aaronmansfield5/humanisejs-NPM-Package)**: An NPM package designed to humanize data, making it more readable and user-friendly.
