@@ -16,7 +16,21 @@
 
 ## About Me
 
-Hello! I'm Aaron Mansfield, a versatile developer working in software development since 2018. My journey began with a fascination for technology and its ability to solve real-world problems. Over the years, I've honed my skills in JavaScript, Node.js, TypeScript, Python, C#, and a diverse array of other technologies. I've had the privilege of contributing to various projects, from web applications to AI and game development.
+Hello! I'm Aaron Mansfield. My journey began in 2018 with a fascination for solving real-world problems through code. While I have deep roots in full-stack development—mastering Node.js, Python, and C#—my approach has evolved.
+
+**I am now a Vibe Coder.**
+
+I focus on flow state, rapid iteration, and building at the speed of thought. By leveraging cutting-edge AI architecture, I bridge the gap between complex ideas and deployed software instantly. It's no longer just about writing syntax; it's about orchestration, intent, and pure efficiency.
+
+---
+
+## Current Workflow & Stack
+
+I combine traditional engineering principles with next-gen AI tooling to maximize productivity:
+
+* **⚡ Cursor**: My primary IDE for AI-native development.
+* **🤖 Claude Code**: utilized for high-context reasoning and complex logic generation.
+* **🚀 Antigravity**: For rapid deployment and friction-free development cycles.
 
 ---
 
@@ -24,6 +38,7 @@ Hello! I'm Aaron Mansfield, a versatile developer working in software developmen
 
 Here are some of my notable projects:
 
+- **[AquaGem](https://github.com/aaronmansfield5/AquaGem)**: 🎰 A Discord casino bot with provably-fair gambling, Roblox account linking, invite rewards, and a persistent economy. Built with discord.py and SQLite.
 - **[aaronmansfield5.github.io](https://github.com/aaronmansfield5/aaronmansfield5.github.io)**: My personal website, serving as a showcase for my portfolio and providing an insight into my skills and projects.
 - **[Roblox Account Gen](https://github.com/aaronmansfield5/Roblox-Account-Gen)**: A Roblox account generator, simplifying the account creation process for users.
 - **[humanisejs NPM Package](https://github.com/aaronmansfield5/humanisejs-NPM-Package)**: An NPM package designed to humanize data, making it more readable and user-friendly.
